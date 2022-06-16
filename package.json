@@ -1,0 +1,19 @@
+{
+    "name": "gbf-item2ngauri",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Waaatanuki/gbf-item2ngaURI.git"
+    },
+    "author": "waaatanuki",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Waaatanuki/gbf-item2ngaURI/issues"
+    },
+    "dependencies": {}
+}
